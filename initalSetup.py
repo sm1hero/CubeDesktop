@@ -22,12 +22,6 @@ class createWindow(tk.Tk):
         background.image = backgroundImage
         backgroundLogo.image = backgroundImageLogo
 
-    # def setButtons(self):
-    #     btnMenu = tk.Button(text="Меню", command=self.onClickBtnMenu)
-    #     btnMenu.place(x = 200, y = 200)
-
-    # def onClickBtnMenu():
-    #     pass
 
 
 

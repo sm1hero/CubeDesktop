@@ -5,7 +5,7 @@ STATE_RASP  = False
 STATE_VIDEO = False
 
 #Screen
-WINDOW_WIDTH = "1000"
+WINDOW_WIDTH = "1600"
 WINDOW_HEIGHT = "600"
 
 #Path
@@ -18,3 +18,7 @@ WINDOW_TITLE   = "ItCube"
 #Fonts
 TEXT_FONT = "Arial"
 TEXT_FONT_SIZE = 20
+
+#Buttons
+BUTTON_WIDTH  = 20
+BUTTON_HEIGHT = 1
